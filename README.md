@@ -18,8 +18,8 @@ Cette archive contient 7 fichiers Astro corrigÃ©s pour votre site kalimero.roc
 ## âœ… Corrections effectuÃ©es
 
 ### 1. **Liens sociaux mis Ã  jour**
-- âœ… Instagram : `kalimero_666` â†’ `kalimero_____666` (5 underscores)
-- âœ… Facebook : `kalimerox19` â†’ `Kalimero.officiel`
+- âœ… Instagram : `kalimero.ink` â†’ `kalimero.ink` 
+- âœ… Facebook : `Kalimero.ink`
 
 ### 2. **Erreurs HTML corrigÃ©es**
 - âœ… Titre : `>>Station-Service"` â†’ `Station-Service`
